@@ -1,0 +1,26 @@
+table, th, td{
+    border: 1px solid black;
+}
+.cabeçalho-moda{
+    background-color: #bb86fc;
+    font-style: italic;
+    color: #424250;
+   
+}.cabeçalho-casa{
+    background-color: #00C4B4;
+    font-style: italic;
+    color:#424250    ;
+
+}
+.produto-moda{
+    background-color:#424250;
+    font-style: italic;
+    color: #ffffff;
+   
+}
+.produto-casa{
+    background-color:#424250;
+    font-style: italic;
+    color: #ffffff;
+    
+}
